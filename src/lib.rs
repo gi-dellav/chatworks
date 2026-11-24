@@ -11,6 +11,7 @@ pub mod model;
 pub mod prelude;
 pub mod services;
 pub mod subscription;
+pub mod testing;
 
 pub use capabilities::{
     BackendInfo, Capabilities, ConversationKind, ConversationKinds, ThreadModel,
